@@ -1,0 +1,10 @@
+env/
+.env
+*.log
+.DS_Store
+__pycache__/
+static/panels/*
+static/exports/*
+!static/panels/.gitkeep
+!static/exports/.gitkeep
+.pytest_cache/
